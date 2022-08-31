@@ -5,5 +5,5 @@
 
 .. toctree::
    :maxdepth: 1
-   
-   markdown <markdown/136-talk-about-nicelinks-site>
+
+   markdown <./markdown/136-talk-about-nicelinks-site>

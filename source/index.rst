@@ -11,13 +11,13 @@ Welcome to mySphinx's documentation!
     :maxdepth: 1
     :caption: 入门
 
-    tiro/index
+    ./tiro/index
 
 .. toctree::
     :maxdepth: 1
     :caption: 导入
 
-    external/index
+    ./external/index
 
 Indices and tables
 ==================
