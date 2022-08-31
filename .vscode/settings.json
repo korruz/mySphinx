@@ -1,5 +1,9 @@
 {
-    "esbonio.sphinx.confDir": "",
+    "esbonio.sphinx.confDir": "${workspaceFolder}\\source",
+    "esbonio.sphinx.buildDir": "${workspaceFolder}\\_build\\html",
     "python.formatting.provider": "black",
-    "restructuredtext.preview.name": "sphinx"
+    "restructuredtext.preview.name": "sphinx",
+    "restructuredtext.linter.doc8.extraArgs": [
+        "--ignore D001"
+    ],
 }
